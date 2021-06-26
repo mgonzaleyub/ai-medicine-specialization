@@ -8,18 +8,20 @@
 
 ## Projects
 ### AI for Medical Diagnosis
-* [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
-* [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-* [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+* [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Diagnosis/Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20%28MRI%29.ipynb)
+* [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Diagnosis/Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
+* [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Diagnosis/Evaluation%20Of%20Diagnostic%20Models.ipynb)
+* 
 ### AI for Medical Prognosis
-* [Build and Evaluate Linear Risk Model](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
-* [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb)
-* [Risk Models Using Tree-based Models](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb)
-* [Survival Estimates that Varies with Time](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods_v1b.ipynb)
+* [Build and Evaluate Linear Risk Model](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Build%20and%20Evaluate%20Linear%20Risk%20Model.ipynb)
+* [Cox Proportional Hazards and Random Survival Forests](hhttps://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+* [Risk Models Using Tree-based Models](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Risk%20Models%20Using%20Tree-based%20Models.ipynb)
+* [Survival Estimates that Varies with Time](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
+* 
 ### AI for Medical Treatment
-* [Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
-* [Model Interpretation Methods](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
-* [Natural Language Entity Extraction](https://github.com/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
+* [Estimating Treatment Effect Using Machine Learning](https://github.com/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+* [Model Interpretation Methods](https://github.com/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Model%20Interpretation%20Methods.ipynb)
+* [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Natural%20Language%20Entity%20Extraction.ipynb)
 
 ## Certificate
 ![alt-text](https://github.com/mgonzaleyub/ai-medicine-specialization/blob/master/certificate.png "certificate")
