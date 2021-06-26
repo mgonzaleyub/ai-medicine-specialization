@@ -11,13 +11,13 @@
 * [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Diagnosis/Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20%28MRI%29.ipynb)
 * [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Diagnosis/Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
 * [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Diagnosis/Evaluation%20Of%20Diagnostic%20Models.ipynb)
-* 
+
 ### AI for Medical Prognosis
 * [Build and Evaluate Linear Risk Model](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Build%20and%20Evaluate%20Linear%20Risk%20Model.ipynb)
 * [Cox Proportional Hazards and Random Survival Forests](hhttps://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
 * [Risk Models Using Tree-based Models](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Risk%20Models%20Using%20Tree-based%20Models.ipynb)
 * [Survival Estimates that Varies with Time](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
-* 
+
 ### AI for Medical Treatment
 * [Estimating Treatment Effect Using Machine Learning](https://github.com/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
 * [Model Interpretation Methods](https://github.com/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Model%20Interpretation%20Methods.ipynb)
