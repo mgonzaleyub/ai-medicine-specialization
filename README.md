@@ -22,4 +22,4 @@
 * [Natural Language Entity Extraction](https://github.com/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
 
 ## Certificate
-![alt-text](https://github.com/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/certificate.png "certificate")
+![alt-text](https://github.com/mgonzaleyub/ai-medicine-specialization/blob/master/certificate.png "certificate")
