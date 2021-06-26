@@ -14,7 +14,7 @@
 
 ### AI for Medical Prognosis
 * [Build and Evaluate Linear Risk Model](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Build%20and%20Evaluate%20Linear%20Risk%20Model.ipynb)
-* [Cox Proportional Hazards and Random Survival Forests](hhttps://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+* [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
 * [Risk Models Using Tree-based Models](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Risk%20Models%20Using%20Tree-based%20Models.ipynb)
 * [Survival Estimates that Varies with Time](https://nbviewer.jupyter.org/github/mgonzaleyub/ai-medicine-specialization/blob/master/AI%20for%20Prognosis/Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
 
